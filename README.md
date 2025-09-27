@@ -1,54 +1,60 @@
-Code Editor
+# Code Editor
 
-A simple in-browser code editor for HTML, CSS, and JavaScript with live preview.
-Built using HTML, CSS, JavaScript, and Ace Editor.
+A simple **in-browser code editor** for HTML, CSS, and JavaScript with live preview.  
+Built using HTML, CSS, JavaScript, and [Ace Editor](https://ace.c9.io/).
 
-🔗 Live Demo: dev-deck-io-wvy9.vercel.app
+🔗 Live Demo: [https://dev-deck-io-wvy9.vercel.app](https://dev-deck-io-wvy9.vercel.app)
 
-✨ Features
+---
 
-Multi-tab editor: Switch easily between HTML, CSS, and JS.
-Live Preview: Run your code inside a sandboxed iframe.
-Keyboard Shortcuts:
-Ctrl + Enter → Run code
-Ctrl + S → Save project
-Save & Load Projects:
-Save work locally (JSON file + localStorage).
-Reload saved projects easily.
-Validation Tests: Add custom JS tests for assignments.
-Clear & Styled Output Log.
-Dark Theme (Dracula) with Ace Editor.
+## ✨ Features
 
-📂 Project Structure
-my-website/
-├── index.html      # Main UI
-├── styles.css      # Custom styling
-├── script.js       # Core editor logic
-└── README.md       # Project documentation
+- **Multi-tab editor**: Switch easily between HTML, CSS, and JS.
+- **Live Preview**: Run your code inside a sandboxed iframe.
+- **Keyboard Shortcuts**
+  - `Ctrl + Enter` → Run code
+  - `Ctrl + S` → Save project
+- **Save & Load Projects**:
+  - Save work locally as a JSON file and in localStorage.
+  - Reload saved projects easily.
+- **Validation Tests**: Add custom JS tests for assignments.
+- **Clear & Styled Output Log**
+- **Dark Theme** (Dracula) with Ace Editor.
 
-🚀 Deployment
 
-This project is deployed on Vercel.
+## 🚀 Deployment
+
+This project is deployed on **Vercel**.  
+
+Live site: [https://dev-deck-io-wvy9.vercel.app](https://dev-deck-io-wvy9.vercel.app)
 
 To deploy your own copy:
 
-Fork/clone the repo.
-Push to GitHub.
-Import the repo into Vercel.
-Set Root Directory to project root (where index.html is).
-Deploy → done 🎉.
+1. Fork or clone the repo.
+2. Push to GitHub.
+3. Import the repo into [Vercel](https://vercel.com/).
+4. Set Root Directory to project root (where `index.html` is).
+5. Deploy → done 🎉.
 
-🛠️ Technologies Used
-HTML5, CSS3, JavaScript
-Ace Editor
-Vercel for deployment
+---
 
-📌 Future Enhancements
-Support for more languages (Python, C++, etc.).
-User authentication & cloud saves.
-Collaboration mode (multi-user editing).
+## 🛠️ Technologies Used
 
-👨‍💻 Author
+- HTML5, CSS3, JavaScript
+- [Ace Editor](https://ace.c9.io/)
+- Vercel for deployment
 
-Aman Verma
+---
+
+## 📌 Future Enhancements
+
+- Support for more languages (Python, C++, etc.).
+- User authentication & cloud saves.
+- Collaboration mode (multi-user editing).
+
+---
+
+## 👨‍💻 Author
+
+**Aman Verma**  
 © 2025 – All rights reserved.
