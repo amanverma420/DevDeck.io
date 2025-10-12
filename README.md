@@ -1,60 +1,80 @@
-# Code Editor
+# Codesplain
 
-A simple **in-browser code editor** for HTML, CSS, and JavaScript with live preview.  
-Built using HTML, CSS, JavaScript, and [Ace Editor](https://ace.c9.io/).
+**An AI-powered code explanation tool** that helps developers understand code snippets quickly and efficiently.
+Built using **React, Vite, and OpenAI API** for generating explanations.
 
-🔗 Live Demo: [https://dev-deck-io-wvy9.vercel.app](https://dev-deck-io-wvy9.vercel.app)
+🔗 Live Demo: [https://codesplain1.vercel.app](https://codesplain1.vercel.app)
 
 ---
 
 ## ✨ Features
 
-- **Multi-tab editor**: Switch easily between HTML, CSS, and JS.
-- **Live Preview**: Run your code inside a sandboxed iframe.
-- **Keyboard Shortcuts**
-  - `Ctrl + Enter` → Run code
-  - `Ctrl + S` → Save project
-- **Save & Load Projects**:
-  - Save work locally as a JSON file and in localStorage.
-  - Reload saved projects easily.
-- **Validation Tests**: Add custom JS tests for assignments.
-- **Clear & Styled Output Log**
-- **Dark Theme** (Dracula) with Ace Editor.
+-   **AI-Powered Code Explanations**: Automatically generates human-readable explanations for code snippets.
+-   **Supports Multiple Programming Languages**: Works with JavaScript, Python, C++, Java, and more.
+-   **User-Friendly Interface**: Simple, clean UI for seamless interaction.
+-   **Fast and Efficient**: Provides real-time explanations with minimal latency.
+-   **Copy & Share Explanations**: Easily copy explanations or share them for learning/collaboration.
+-   **Frontend-Backend Architecture**: Frontend in React (Vite), backend in Node.js for API handling.
 
+---
 
 ## 🚀 Deployment
 
-This project is deployed on **Vercel**.  
+Codesplain is deployed on **Vercel**.
 
-Live site: [https://dev-deck-io-wvy9.vercel.app](https://dev-deck-io-wvy9.vercel.app)
+Live site: [https://codesplain1.vercel.app](https://codesplain1.vercel.app)
 
 To deploy your own copy:
 
-1. Fork or clone the repo.
-2. Push to GitHub.
-3. Import the repo into [Vercel](https://vercel.com/).
-4. Set Root Directory to project root (where `index.html` is).
-5. Deploy → done 🎉.
+1.  Fork or clone the repo:
+    ```bash
+    git clone [https://github.com/amanverma420/Codesplain.git](https://github.com/amanverma420/Codesplain.git)
+    cd Codesplain/codesplain
+    ```
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
+3.  Start development server:
+    ```bash
+    npm run dev
+    ```
+4.  Open your browser:
+    ```
+    http://localhost:5173
+    ```
+
+To deploy on Vercel:
+
+1.  Push the repo to GitHub.
+2.  Import the repo in Vercel.
+3.  Set **Root Directory** to `codesplain` (frontend folder).
+4.  **Build Command**: `npm install && npm run build`
+5.  **Output Directory**: `dist`
+6.  Click **Deploy** → done 🎉.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5, CSS3, JavaScript
-- [Ace Editor](https://ace.c9.io/)
-- Vercel for deployment
+-   React.js, Vite
+-   Node.js backend for API
+-   OpenAI API for AI-powered explanations
+-   CSS for styling
+-   Vercel for deployment
 
 ---
 
 ## 📌 Future Enhancements
 
-- Support for more languages (Python, C++, etc.).
-- User authentication & cloud saves.
-- Collaboration mode (multi-user editing).
+-   Support for additional programming languages.
+-   Save past code explanations for users.
+-   User authentication & cloud storage.
+-   Real-time collaboration mode (multi-user editing).
 
 ---
 
 ## 👨‍💻 Author
 
-**Aman Verma**  
+**Aman Verma**
 © 2025 – All rights reserved.
